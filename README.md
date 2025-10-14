@@ -1,5 +1,5 @@
 ## Employee Stream API Mini Project (Core Java)
-This Java mini-project demonstrates the **power of Java 8 Stream API** through a progressive, console-based application series.
+This Java mini-project demonstrates the **power of Java 25 Stream API** through a progressive, console-based application series.
 It begins with basic stream operations and evolves into a **fully menu-driven system** that supports **dynamic, user-defined filters**.
 The project showcases **functional programming concepts** such as:
 * `filter()`, `map()`, `distinct()`, `sorted()`, `flatMap()`, `collect()`, `count()`, `average()`, and `findAny()`.
