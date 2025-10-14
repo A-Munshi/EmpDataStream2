@@ -6,7 +6,7 @@ The project showcases **functional programming concepts** such as:
 * Real-world use of `Comparator`, `Collectors`, and lambda expressions.
 
 ### Project Sections
-#### 🔹 Section 1 – `EmployeeStreamDemo.java`
+#### 🔹 Section 1 – `EmpStreamDemo.java`
 A simple demonstration of Stream API operations on a predefined list of employees.
 It prints:
 * Filtered employees (`salary > 70000`)
@@ -17,7 +17,7 @@ It prints:
 * Department grouping (`collect(groupingBy)`)
 * Average salary and count examples
 
-#### 🔹 Section 2 – `EmployeeStreamMenuDriven.java`
+#### 🔹 Section 2 – `EmpStreamMenu.java`
 A **menu-driven console application** that allows users to execute various Stream operations interactively.
 **Features:**
 * Display all employees
@@ -31,7 +31,7 @@ A **menu-driven console application** that allows users to execute various Strea
 * Group employees by department
 * Find employee older than 35
 
-#### 🔹 Section 3 – `EmployeeStreamMenuDrivenCustom.java`
+#### 🔹 Section 3 – `EmpStreamMenuCustom.java`
 The upgraded version — **fully interactive** and **user-driven**.
 **New Features:**
 * Filter by **custom salary range**
